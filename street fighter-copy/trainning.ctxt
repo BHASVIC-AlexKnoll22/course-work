@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=trainning
+comment0.text=\n\ Write\ a\ description\ of\ class\ trainning\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ jabreg()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ trainning\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ rangereg()
+comment3.params=
+comment3.target=void\ kickreg()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=d
+comment5.target=void\ damage(int)
+numComments=6

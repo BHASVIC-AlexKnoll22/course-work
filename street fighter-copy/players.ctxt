@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=players
+comment0.text=\n\ Write\ a\ description\ of\ class\ players\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ walk()
+comment10.params=
+comment10.target=void\ act()
+comment2.params=d
+comment2.target=void\ damage(int)
+comment3.params=
+comment3.target=void\ stuck()
+comment4.params=
+comment4.target=void\ gravity()
+comment5.params=
+comment5.target=void\ jump()
+comment6.params=
+comment6.target=void\ falling()
+comment7.params=
+comment7.target=void\ range()
+comment8.params=
+comment8.target=void\ jab()
+comment9.params=
+comment9.target=void\ kick()
+numComments=11
